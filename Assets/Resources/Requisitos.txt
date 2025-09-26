@@ -1,4 +1,5 @@
 Exercício 001
 - Criar scene para cada desenvolvedor.
 -- A scene deve ser acionada pelo botão da scene01.
--- 
+-- O exercício vai envolver: A criação de script para fazer a mudança de cena. Vínculo do componente script ao objeto button. Utilização do evento de clique.
+-- Realizar o processo inverso. Na scene adicionada, incluir um button para voltar à cena principal. 
