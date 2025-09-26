@@ -1,0 +1,4 @@
+Exercício 001
+- Criar scene para cada desenvolvedor.
+-- A scene deve ser acionada pelo botão da scene01.
+-- 
