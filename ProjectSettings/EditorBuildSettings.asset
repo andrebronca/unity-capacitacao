@@ -11,4 +11,6 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Scene01_Poly.unity
     guid: c48897404562c7d4491f71a16c762f8e
+    path: Assets/Scenes/Scene01_Julia.unity
+    guid: b425090a0fff2b84d9714500c73d7bf5
   m_configObjects: {}
